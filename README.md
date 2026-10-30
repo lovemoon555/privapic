@@ -23,7 +23,7 @@
   
   If you have any questions, feedback, or issues, please contact us:
   
-  **Email:** yoyo20201024@outlook.com
+  **Email:** yoyo20201024@163.com
   
   We typically respond within 1–2 business days.
   
@@ -62,7 +62,7 @@
   
   ## Contact
   
-  - **Support Email:** yoyo20201024@outlook.com
+  - **Support Email:** yoyo20201024@163.com
   - **Version:** 1.1
   
   © 2026 Javelin Duel. All rights reserved.
